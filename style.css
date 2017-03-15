@@ -7,9 +7,8 @@ html {
 #clock{
 	font-family: 'Wallpoet', serif;
 	text-align: center;
-	vertical-align: ;
 	position:fixed;
-	top: 35%;
+	top: 38%;
 	left: 50%;
 	font-size: 166px;
 	color: red;

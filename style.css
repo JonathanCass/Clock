@@ -4,3 +4,11 @@ html {
 *, *:before, *:after {
 	box-sizing: inherit;
 }
+#clock{
+	font-family: 'Wallpoet', serif;
+	text-align: center;
+	vertical-align: ;
+	position:fixed;
+	top: 40%;
+	left: 46%;
+}

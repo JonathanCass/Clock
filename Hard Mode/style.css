@@ -5,16 +5,12 @@ html {
 	box-sizing: inherit;
 }
 #clock{
-	font-family: 'Wallpoet', serif;
+	font-family: 'Orbitron', serif;
 	position: fixed;
 	top: 38%;
 	left: 50%;
-	font-size: 166px;
-	color: red;
+	font-size: 144px;
+	color: white;
 	-webkit-text-stroke: 4px black;
 	transform: translate(-50%, -50%);
-}
-body{
-	background: url("background2.jpg") no-repeat center center fixed;
-	background-size: cover;
 }

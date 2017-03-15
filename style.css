@@ -9,11 +9,12 @@ html {
 	text-align: center;
 	vertical-align: ;
 	position:fixed;
-	top: 23%;
-	left: 28%;
+	top: 35%;
+	left: 50%;
 	font-size: 166px;
 	color: red;
 	-webkit-text-stroke: 4px black;
+	transform: translate(-50%, -50%);
 }
 body{
 	background: url("background2.jpg") no-repeat center center fixed;
